@@ -68,7 +68,7 @@ Decentralized application exploring on-chain interactions and Web3 integrations.
 - **GitHub:** [kevinmalana](https://github.com/kevinmalana)
 - **LinkedIn:** [kevinmalana](https://linkedin.com/in/kevinmalana)
 - **Twitter/X:** [@kevinmalana](https://twitter.com/kevinmalana)
-- **Email:** kevin@quizworld.xyz
+- **Email:** kevinmalana@gmail.com
 
 ---
 
