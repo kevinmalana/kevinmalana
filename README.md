@@ -38,6 +38,10 @@ Git · GitHub Actions · Claude Code · OpenClaw · Cursor
 Elixir · Next.js · AI Generation · Supabase
 Real-time multiplayer quizzes with AI-generated questions from any topic. Built with Phoenix LiveView, AI quiz generation pipeline, and a full-stack multiplayer game engine.
 
+### [rag-pipeline](https://github.com/kevinmalana/rag-pipeline) — Minimal RAG Pipeline
+Python · LangChain · ChromaDB · OpenAI Embeddings
+A runnable RAG pipeline: PDF loading → chunking → OpenAI embeddings → ChromaDB vector store → GPT-4o-mini generation. Demonstrates retrieval-augmented generation with real code.
+
 ### [goshoot](https://github.com/kevinmalana/goshoot) — Vision AI Platform
 Computer vision pipeline with AI-powered image processing and generation capabilities.
 
