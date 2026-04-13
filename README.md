@@ -34,6 +34,14 @@ Git · GitHub Actions · Claude Code · OpenClaw · Cursor
 
 ## 🚀 Featured Projects
 
+### [llm-eval-harness](https://github.com/kevinmalana/llm-eval-harness) — LLM Evaluation Framework
+Python · OpenAI · Anthropic · Ollama
+Lightweight framework for benchmarking LLMs on reasoning tasks (arithmetic, logic, reading, commonsense, code). Supports chain-of-thought, few-shot, and direct prompting modes with cost tracking.
+
+### [rag-pipeline](https://github.com/kevinmalana/rag-pipeline) — RAG Pipeline Demo
+Python · LangChain · ChromaDB · OpenAI
+Minimal Retrieval Augmented Generation pipeline with PDF loading, vector embeddings, and interactive REPL. Run with or without a PDF.
+
 ### [quizworld](https://github.com/kevinmalana/quizworld) — AI-Powered Quiz Platform
 Elixir · Next.js · AI Generation · Supabase
 Real-time multiplayer quizzes with AI-generated questions from any topic. Built with Phoenix LiveView, AI quiz generation pipeline, and a full-stack multiplayer game engine.
@@ -64,6 +72,14 @@ Decentralized application exploring on-chain interactions and Web3 integrations.
 - Building AI-native applications with autonomous agent workflows
 - Contributing to open source AI tooling
 - Exploring fine-tuning, RAG architectures, and production LLM systems
+
+---
+
+## 🗓️ Recent Commits
+
+| Date | Project | Change |
+|------|---------|--------|
+| 2026-04-03 | quizworld | **refactor: consolidate duplicated normalizeTimeLimit, normalizePoints, and decodeHtmlEntities into lib/quiz-utils** — moved duplicate helper functions from `lib/quiz-ai.ts` and `lib/quiz-import.ts` into a single shared `lib/quiz-utils.ts` with typed exports (`TimeOption`, `PointOption`). Eliminates code duplication and ensures consistent time/point normalization across AI quiz generation and text import pipelines. |
 
 ---
 
