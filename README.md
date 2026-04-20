@@ -34,6 +34,10 @@ Git · GitHub Actions · Claude Code · OpenClaw · Cursor
 
 ## 🚀 Featured Projects
 
+### [prompt-gallery](https://github.com/kevinmalana/prompt-gallery) — Prompt Engineering Gallery
+Python · OpenAI · Anthropic · Ollama
+A runnable gallery of 24 advanced prompting techniques with a CLI to preview, compare, and execute prompts across multiple model providers.
+
 ### [llm-eval-harness](https://github.com/kevinmalana/llm-eval-harness) — LLM Evaluation Framework
 Python · OpenAI · Anthropic · Ollama
 Lightweight framework for benchmarking LLMs on reasoning tasks (arithmetic, logic, reading, commonsense, code). Supports chain-of-thought, few-shot, and direct prompting modes with cost tracking.
