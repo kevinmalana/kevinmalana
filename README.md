@@ -34,6 +34,7 @@ Git · GitHub Actions · Claude Code · OpenClaw · Cursor
 
 ## 🚀 Featured Projects
 
+- [Embedding Explorer](https://github.com/kevinmalana/embedding-explorer) — Interactive text embedding visualization with UMAP, t-SNE, PCA, and Plotly.
 ### [prompt-gallery](https://github.com/kevinmalana/prompt-gallery) — Prompt Engineering Gallery
 Python · OpenAI · Anthropic · Ollama
 A runnable gallery of 24 advanced prompting techniques with a CLI to preview, compare, and execute prompts across multiple model providers.
